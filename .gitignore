@@ -10,3 +10,12 @@
 *.lai
 *.la
 *.a
+
+# Qt mocs
+moc_*
+
+# compiled binary
+src/laborator
+
+# qt Makefile
+src/Makefile
